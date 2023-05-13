@@ -1,4 +1,4 @@
-```json
+```js
 {
 	name: "Zheng Lin Lei",
 	status: "Working hard...",
