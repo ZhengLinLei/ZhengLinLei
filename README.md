@@ -7,6 +7,7 @@
 		"Spanish",
 		"Chinese",
 		"Catalan",
+		"English",
 		"Korean",
   	],
 	current_job: "Student",
