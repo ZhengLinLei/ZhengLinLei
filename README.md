@@ -10,7 +10,7 @@
 		"English",
 		"Korean",
   	],
-	current_job: "Student",
+	current_job: "Backend Developer",
 	education: {
 		university: "University Polythecnic of Valencia",
 		career: "Informatics Engineering",
