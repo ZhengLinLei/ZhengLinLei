@@ -1,3 +1,18 @@
+> [!IMPORTANT] \
+> Passive activity due `status="Working"` and `mode="Studying"`
+
+<br>
+<p align="center">
+	<a href="https://github.com/ZhengLinLei">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei&theme=aura" />
+	</a> &nbsp;
+	<a href="https://github.com/ZhengLinLei">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhengLinLei&theme=aura&layout=compact&langs_count=8&card_width=320" />
+	</a>
+</p>
+<br>
+
+
 ```js
 {
 	name: "Zheng Lin Lei",
@@ -24,4 +39,4 @@
 	],
 }
 ```
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei&show_icons=true&theme=aura&include_all_commits=true"/>
+
