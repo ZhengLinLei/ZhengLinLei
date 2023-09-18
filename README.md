@@ -1,7 +1,13 @@
-> [!IMPORTANT] \
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/warning.svg">
+>   <img alt="Warning" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg">
+> </picture><br>
+>
 > Passive activity due `status="Working"` and `mode="Studying"`
 
-<br>
+
+
+<br><br>
 <p align="center">
 	<a href="https://github.com/ZhengLinLei">
 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei&theme=aura" />
