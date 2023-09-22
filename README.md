@@ -10,10 +10,10 @@
 <br><br>
 <p align="center">
 	<a href="https://github.com/ZhengLinLei">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei&theme=aura" />
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei&theme=transparent" />
 	</a> &nbsp;
 	<a href="https://github.com/ZhengLinLei">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhengLinLei&theme=aura&layout=compact&langs_count=8&card_width=320" />
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhengLinLei&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 	</a>
 </p>
 <br>
