@@ -1,8 +1,5 @@
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/warning.svg">
->   <img alt="Warning" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/warning.svg">
-> </picture><br>
->
+> ⚠️ Warning
+> 
 > Passive activity due `status="Working"` and `mode="Studying"`
 
 
