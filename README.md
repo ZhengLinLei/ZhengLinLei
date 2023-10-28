@@ -21,6 +21,7 @@
 	name: "Zheng Lin Lei",
 	status: "Working hard...",
 	location: "Spain",
+	message: "Please support our open-source project",
 	language: [
 		"Spanish",
 		"Chinese",
@@ -28,7 +29,10 @@
 		"English",
 		"Korean",
   	],
-	current_job: "Backend Developer",
+	current_job: {
+		job: "Backend Developer",
+		company: "F1 Connecting",
+	},
 	education: {
 		university: "University Polythecnic of Valencia",
 		career: "Informatics Engineering",
