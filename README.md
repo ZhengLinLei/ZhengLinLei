@@ -21,6 +21,8 @@
 	name: "Zheng Lin Lei",
 	status: "Working hard...",
 	location: "Spain",
+	github: "github.com/ZhengLinLei",
+	linkedin: "linkedin.com/in/zhenglinlei"
 	message: "Please support our open-source project",
 	language: [
 		"Spanish",
@@ -32,6 +34,8 @@
 	current_job: {
 		job: "Backend Developer",
 		company: "F1 Connecting",
+		website: "f1-connecting.es"
+		linkedin: "linkedin.com/company/f1-connecting",
 	},
 	education: {
 		university: "University Polythecnic of Valencia",
