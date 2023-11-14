@@ -31,6 +31,12 @@
 		"English",
 		"Korean",
   	],
+	contact: {
+		email: [
+			"zheng9112003@icloud.com",
+			"linleiz@acm.org",
+		],
+	},
 	current_job: {
 		job: "Backend Developer",
 		company: "F1 Connecting",
