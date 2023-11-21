@@ -1,20 +1,6 @@
-> ⚠️ Warning
-> 
-> Passive activity due `status="Working"` and `mode="Studying"`
-
-
-
-<br><br>
 <p align="center">
-	<a href="https://github.com/ZhengLinLei">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei&theme=transparent" />
-	</a> &nbsp;
-	<a href="https://github.com/ZhengLinLei">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhengLinLei&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-	</a>
+	<img src="https://github.com/ZhengLinLei/ZhengLinLei/assets/77938581/2537f990-1bd3-48db-abdb-4905966864be">	
 </p>
-<br>
-
 
 ```js
 {
@@ -53,5 +39,16 @@
 		"Robotics",
 	],
 }
-```
 
+```
+<p align="center">
+	<img src="https://github.com/ZhengLinLei/ZhengLinLei/assets/77938581/37095e4e-2830-4744-99fc-a669bca6cc0b">
+</p>
+<p align="center">
+	<a href="https://github.com/ZhengLinLei">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei&include_all_commits=true" />
+	</a> &nbsp;
+	<a href="https://github.com/ZhengLinLei">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhengLinLei&layout=compact&langs_count=8&card_width=320" />
+	</a>
+</p>
