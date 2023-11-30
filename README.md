@@ -53,7 +53,7 @@
 <br><br><br>
 <p align="center">
 	<a href="https://github.com/ZhengLinLei">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei&include_all_commits=true" />
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZhengLinLei" />
 	</a> &nbsp;
 	<a href="https://github.com/ZhengLinLei">
 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhengLinLei&layout=compact&langs_count=8&card_width=320" />
