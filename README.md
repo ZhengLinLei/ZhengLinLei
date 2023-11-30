@@ -46,10 +46,10 @@
 ```
 <br><br><br> 
 <h3 align="center">Welcome to my</h3>
-<h2 align="center">
+<h1 align="center">
 	<p>Github</p>
 	<br>
-</h2>
+</h1>
 <br><br><br>
 <p align="center">
 	<a href="https://github.com/ZhengLinLei">
