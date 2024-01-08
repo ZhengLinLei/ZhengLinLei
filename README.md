@@ -59,11 +59,11 @@
 		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZhengLinLei&layout=compact&langs_count=8&card_width=320" />
 	</a>
 </p>
-<p align="center">
+<!--<p align="center">
 	<a href="https://github.com/ZhengLinLei">
 		<img src="https://streak-stats.demolab.com?user=ZhengLinLei&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 	</a>
-</p>
+</p>-->
 
 <br><br><br>
 <h2></h2>
