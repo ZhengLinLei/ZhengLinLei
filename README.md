@@ -1,6 +1,3 @@
-> [!IMPORTANT]  
-> I'm in exams, so I'm going to be a little bit inactive
-
 <br><br><br> 
 <h1 align="center">
 	<p>👋 Hi, I'm @ZhengLinLei</p>
