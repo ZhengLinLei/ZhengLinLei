@@ -1,5 +1,5 @@
 > [!NOTE]  
-> In Vacations 🎉
+> On my vacations 🎉
 
 <br><br><br> 
 <h1 align="center">
