@@ -1,6 +1,3 @@
-> [!NOTE]  
-> On my vacations 🎉
-
 <br><br><br> 
 <h1 align="center">
 	<p>👋 Hi, I'm @ZhengLinLei</p>
