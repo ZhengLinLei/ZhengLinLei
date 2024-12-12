@@ -81,5 +81,16 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 <p align="center">
+    <br>
+    <img src="https://skillicons.dev/icons?i=react,sass,materialui,tailwind,nodejs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=figma,docker,kubernetes" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+<br><br><br><br>
+<p align="center">
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZhengLinLei1212%2Fhit-counter">
 </p>
